@@ -17,6 +17,11 @@ It is strictly prohibited to extract, copy, distribute, or use any of the assets
 3.  Click on the "Assets" dropdown for the latest version.
 4.  Download the appropriate file for your system (e.g., `.exe`, `.dmg`, `.zip`, `.tar.gz`).
 
+### Mac
+
+If you are a Mac User please refer to this comment from dnfanjos: https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Issues/issues/18#issuecomment-4189580573
+Might not be super straight forward way but still a way to play regardless.
+
 ---
 
 ## 📦 Source Code
