@@ -1,31 +1,31 @@
 {
-  "version": "0.7.0",
+  "version": "0.8.0",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2026-04-16T16:41:58.634Z",
+  "pub_date": "2026-04-17T19:09:01.516Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaVNaQkFrMUNVQzdJUUJ5MWlJV3VHdlVUZGxycEpiNXR5Rm1yRUpHKzRROW54R2l3OEVZbmVPdXdvbWYyVmdQa0lIVWdtT2ZiVCtTSkkxbUJna21LRFhVZ0Vtc3ZxNXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzU3MjE5CWZpbGU6UGlyYXRlIFJhZGlvIExhdW5jaGVyXzAuNy4wX2FtZDY0LkFwcEltYWdlCmUzZ0ozWFV5VC9YeVdPMXMzVEYxRHdaNDB1K2EwQUFXZ0QwVHZXNzhUYUVRcENrUWVkSVpRNjRCT1pJTGJzWU4rZ09uanpRUURsQjZzSGpzT01OOER3PT0K",
-      "url": "https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Artifacts/releases/download/launcher-v0.7.0/Pirate.Radio.Launcher_0.7.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaVNaQkFrMUNVQ3hnbGNmb3FOUFBLZ2ZkQllQTjMxa0s5Z3R6UFNlaXF4aERjR2ROZGQyeFVyeUZNRGxVb2tUT0pIcjJHb1Y0QzdTcGVGOFIwOTNIbmFzUjBRVVNrMFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDUyNDgyCWZpbGU6UGlyYXRlIFJhZGlvIExhdW5jaGVyXzAuOC4wX2FtZDY0LkFwcEltYWdlCjNUcWRmalBseEZUSmJ5eGZEQ3Z4ZDdEMVFsZ29Va25tdHYwL0RPaGxuUzR4aFRBOGJjcEhtLzZuSDhUL3lqakQxYlptNE1WQTdEVDBEWWNvdmRmd0F3PT0K",
+      "url": "https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Artifacts/releases/download/launcher-v0.8.0/Pirate.Radio.Launcher_0.8.0_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaVNaQkFrMUNVQzIwak94S05VaG9VTjY3cmt3YXhNQnhxSHFMKzBQb3FtOWZsQ05LbXhoVStwWGpXb3R5b2U0emhibXovdEh5WDFUZ3hESEhjdXJUQ1ZrdjhyTEh3VkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzU3MjE5CWZpbGU6UGlyYXRlIFJhZGlvIExhdW5jaGVyXzAuNy4wX2FtZDY0LmRlYgpqV0MxZkxGMXY4TmMxL1hiR0NrZS9leG5iRDRiWjI0L21zSXB2ZXF2VjU3MTE1Q0VwaStlQ20yaW94UXkvM3RiSE5iaXFhRk5FenBuZ1Z0NitHbjNEQT09Cg==",
-      "url": "https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Artifacts/releases/download/launcher-v0.7.0/Pirate.Radio.Launcher_0.7.0_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaVNaQkFrMUNVQ3d0dXFYaDRLaU83S1F6M3dtUHFCVHBDZVJWaXJXbjRVQXdXR25ETnJsUWVJdnJ5RTkrZnFQek5TSmpFSmtHQkpHeUVpTVFYWXJqK3NGS3MwMVl6T0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDUyNDgyCWZpbGU6UGlyYXRlIFJhZGlvIExhdW5jaGVyXzAuOC4wX2FtZDY0LmRlYgpnazU0d1Z4Z2hlbHZyUHNPRUdUQjB1OTllcFdPYUptdEI0dFJweDNxQTZKSTNURVBOQVBzQldzcEVscjluTHZGMVh0NHB3N2xwbC9EMUE1OVNDZjRCQT09Cg==",
+      "url": "https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Artifacts/releases/download/launcher-v0.8.0/Pirate.Radio.Launcher_0.8.0_amd64.deb"
     },
     "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaVNaQkFrMUNVQys2aXM0djN4b3JHQUg1YktVS0t5K29Rd2w1aEE1ek5aUEQvaHp0T2w5R0NLZEJNRTlMM0JqWmpKZkU0V3AxcjNaRUhEQXNDSGNXYy9nNVhQejhqZmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzU3MjE5CWZpbGU6UGlyYXRlIFJhZGlvIExhdW5jaGVyLTAuNy4wLTEueDg2XzY0LnJwbQpndGc1alRVTEdoT3F5RU9LSkI3YVRoR29KWWFzSnk1WjZHMXJVRXAxeXFnY3VTdWllQWt1ZmNXd0dveVR6UlRoeUZLY05SREc0b0wrdHpOMENXZndBZz09Cg==",
-      "url": "https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Artifacts/releases/download/launcher-v0.7.0/Pirate.Radio.Launcher-0.7.0-1.x86_64.rpm"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaVNaQkFrMUNVQzlZN1IrQVY3VXFocXZqbHFxUXZ4VGlpS1I2eDYrbFovUlNZb2p6dzliUU9KSkVjYlg0M3h4SmdCZzFmNDh3aVVjdURFNG1lZXpxMEthd2VhaEc2bkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDUyNDgyCWZpbGU6UGlyYXRlIFJhZGlvIExhdW5jaGVyLTAuOC4wLTEueDg2XzY0LnJwbQo3Um5jWVdhM0c2UEpzNDhqcEhzZE8xS01hMDhYcXhyT0o2Mm9YU213dzFaNUlEQVZ0YkVKWUViMXBWcEsrNFVNUVdaVndOM3JSTHJFcUM0VnU2bVVBQT09Cg==",
+      "url": "https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Artifacts/releases/download/launcher-v0.8.0/Pirate.Radio.Launcher-0.8.0-1.x86_64.rpm"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaVNaQkFrMUNVQy9uQmc4UVBpWXo5eDBseC83dUJ2dGZBaWtwc0VMT09nMk1pS2NhR1ptWjduck9Ccm93WjBrNjFmUVlCVk5LK29pbG9tKzhxTms5YkV0d3N2VjB1M0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzU3NzEyCWZpbGU6UGlyYXRlIFJhZGlvIExhdW5jaGVyXzAuNy4wX3g2NC1zZXR1cC5leGUKWjVob2U2NXNXaVB4aEZidSs0V1hNdDJ3K0RyWnpWeS8rdTFVc25CMWh0NUFqTE01VGhLUkVnWC92TDR2SEtsVFF4cmJNUXd2RlZSaVJ1eWtENmMxRFE9PQo=",
-      "url": "https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Artifacts/releases/download/launcher-v0.7.0/Pirate.Radio.Launcher_0.7.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaVNaQkFrMUNVQ3loZDVuZCtPdWlWU20rMVFvZ1NOTExxVlV2ZWZ2SDVrOHoxdHhwQmRweVhjSy9BOXBHNnRDdjZBTFNGSzk5T210bmxoR1c3WUZ2VktUckltOWRnK0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDUyOTM3CWZpbGU6UGlyYXRlIFJhZGlvIExhdW5jaGVyXzAuOC4wX3g2NC1zZXR1cC5leGUKY1lNM2wvNUEzbVFnYUgrbTdUTzhiVVFmb1ZDMnhyWWZDeTU0YnljOTJvcFBrUGNONEpCQ1I0TXBUcFY1VVYxZG5oUW1pWG1XYTBCODdTUGlUeXlNQ2c9PQo=",
+      "url": "https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Artifacts/releases/download/launcher-v0.8.0/Pirate.Radio.Launcher_0.8.0_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaVNaQkFrMUNVQy9uQmc4UVBpWXo5eDBseC83dUJ2dGZBaWtwc0VMT09nMk1pS2NhR1ptWjduck9Ccm93WjBrNjFmUVlCVk5LK29pbG9tKzhxTms5YkV0d3N2VjB1M0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzU3NzEyCWZpbGU6UGlyYXRlIFJhZGlvIExhdW5jaGVyXzAuNy4wX3g2NC1zZXR1cC5leGUKWjVob2U2NXNXaVB4aEZidSs0V1hNdDJ3K0RyWnpWeS8rdTFVc25CMWh0NUFqTE01VGhLUkVnWC92TDR2SEtsVFF4cmJNUXd2RlZSaVJ1eWtENmMxRFE9PQo=",
-      "url": "https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Artifacts/releases/download/launcher-v0.7.0/Pirate.Radio.Launcher_0.7.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaVNaQkFrMUNVQ3loZDVuZCtPdWlWU20rMVFvZ1NOTExxVlV2ZWZ2SDVrOHoxdHhwQmRweVhjSy9BOXBHNnRDdjZBTFNGSzk5T210bmxoR1c3WUZ2VktUckltOWRnK0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDUyOTM3CWZpbGU6UGlyYXRlIFJhZGlvIExhdW5jaGVyXzAuOC4wX3g2NC1zZXR1cC5leGUKY1lNM2wvNUEzbVFnYUgrbTdUTzhiVVFmb1ZDMnhyWWZDeTU0YnljOTJvcFBrUGNONEpCQ1I0TXBUcFY1VVYxZG5oUW1pWG1XYTBCODdTUGlUeXlNQ2c9PQo=",
+      "url": "https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Artifacts/releases/download/launcher-v0.8.0/Pirate.Radio.Launcher_0.8.0_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaVNaQkFrMUNVQzlVem9mVTRQanVhZy8wOWJUQ2hPcmhjM2VKQmdqYTlpbEU3V0MyUVpmZkVXaWt5ZXlacTdCeHh0Wis0bkJZQ2RvYnNSdkFrV3ZvTWV5cW8zcTFLVFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzU3NzEyCWZpbGU6UGlyYXRlIFJhZGlvIExhdW5jaGVyXzAuNy4wX3g2NF9lbi1VUy5tc2kKbzRwZ0FNRTkzdHVHN2diUGhNVUVRdXdrRnBndVhRSkFGUGNrZzhTSkZJdERkTGFJNTJDZENyY2cvVjRRUW5LKzRzcGE1L0FLdkUrUGpxYlRhK2JQQ0E9PQo=",
-      "url": "https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Artifacts/releases/download/launcher-v0.7.0/Pirate.Radio.Launcher_0.7.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaVNaQkFrMUNVQ3lqbnZjRlJpOWZkMTVoaUY2NUg0dEpIUnV4dnFPVmxaMVQ2VVFrN3RmS2tabUNkUFVnSzVqK0hlMG8rYnJiOUFpbU43YkQzUE1qYmVZOXlaOEdQWHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDUyOTM2CWZpbGU6UGlyYXRlIFJhZGlvIExhdW5jaGVyXzAuOC4wX3g2NF9lbi1VUy5tc2kKak04YjdQdXJ1NldXVVpES1NlU3JwUGNwUXhBMjdEKzl1bTZtQVdzYVVsODB0MzBlRVRIUys2bUdJM2c1alV1V2Z5VFVNZmErWmZjYjRTUTcrK2Y0QUE9PQo=",
+      "url": "https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Artifacts/releases/download/launcher-v0.8.0/Pirate.Radio.Launcher_0.8.0_x64_en-US.msi"
     }
   }
 }
